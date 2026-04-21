@@ -2,7 +2,7 @@
 
 🚀 A modern, responsive portfolio website showcasing my projects, skills, and experience as a Full Stack Web Developer.
 
-🔗 **Live Demo:** https://your-live-link.com
+🔗 **Live Demo:** [https://your-live-link.com](https://amanmohanty18.github.io/portfolio-website/)
 
 ---
 
