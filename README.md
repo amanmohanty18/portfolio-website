@@ -70,7 +70,20 @@ Then open `index.html` in your browser.
 
 ## 📸 Preview
 
-(Add screenshots of your portfolio here after deployment)
+### 🏠 Home
+![Home](assets/hero.png)
+
+### 👤 About
+![About](assets/about.png)
+
+### 🧠 Skills
+![Skills](assets/skills.png)
+
+### 🚀 Projects
+![Projects](assets/projects.png)
+
+### 📬 Contact
+![Contact](assets/contact.png)
 
 ---
 
